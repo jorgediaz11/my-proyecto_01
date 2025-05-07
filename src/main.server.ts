@@ -1,4 +1,4 @@
-// diccionario de datos
+// diccionario de datos 002
 
 import { bootstrapApplication } from '@angular/platform-browser';
 import { AppComponent } from './app/app.component';

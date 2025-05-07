@@ -1,3 +1,5 @@
+// diccionario de datos 002
+
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 import { Router, RouterModule, RouterOutlet } from '@angular/router';

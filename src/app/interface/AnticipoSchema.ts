@@ -1,4 +1,4 @@
-// diccionario de datos
+// diccionario de datos 002
 
 export type AnticipoSchema = {
     id:string;

@@ -1,4 +1,4 @@
-// diccionario de datos
+// diccionario de datos 002
 
 import { CommonModule } from '@angular/common';
 import { Component, EventEmitter, Input, Output } from '@angular/core';

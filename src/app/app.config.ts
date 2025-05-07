@@ -1,4 +1,4 @@
-// diccionario de datos
+// diccionario de datos 002
 
 import { ApplicationConfig, importProvidersFrom } from '@angular/core';
 import { provideRouter } from '@angular/router';

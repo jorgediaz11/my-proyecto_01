@@ -1,4 +1,4 @@
-//  diccionario de datos
+//  diccionario de datos 002
 
 import { Component, OnInit } from '@angular/core';
 import { AdvanceRequestService } from '../../services/advance-request.service';

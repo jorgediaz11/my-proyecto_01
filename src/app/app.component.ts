@@ -1,4 +1,4 @@
-// diccionario de datos
+// diccionario de datos 002
 
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';  //proporciona directivas comunes como ngif y ngfor

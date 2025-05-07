@@ -1,4 +1,4 @@
-// diccionario de datos
+// diccionario de datos 002
 
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';

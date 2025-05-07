@@ -1,4 +1,4 @@
-// diccionario de datos
+// diccionario de datos 002
 
 import { Routes } from '@angular/router';
 import { AdvanceRequestTableComponent } from './components/advance-request-table/advance-request-table.component';
